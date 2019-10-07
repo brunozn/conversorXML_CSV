@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package>
+    <name>AllFeatureRules</name>
+    <pkgId>13569656</pkgId>
+    <pkgMetadata>
+        <creator>rsikhapa</creator>
+        <createdDate>13-05-2018 10:07:16</createdDate>
+        <pkgVersion>3.0.29</pkgVersion>
+        <application>All</application>
+        <icType>Feature</icType>
+        <businessService>Common</businessService>
+        <technology>All,NA</technology>
+        <runTimeFormat>RBML</runTimeFormat>
+        <inputForTranslation></inputForTranslation>
+        <pkgDescription></pkgDescription>
+    </pkgMetadata>
+    <rules>
+        <rule>
+            <name>ip_slas_scheduling</name>
+            <ruleId>46288</ruleId>
+            <ruleVersion>1.3.0</ruleVersion>
+            <ruleVersionId>1698132</ruleVersionId>
+            <nuggetId>619577</nuggetId>
+            <nuggetVersionId>225380</nuggetVersionId>
+            <icType>Feature</icType>
+            <creator>paws</creator>
+            <customer></customer>
+        </rule>
+ </rules>
+    <versionChanges>
+        <rulesAdded/>
+        <rulesModified/>
+        <rulesDeleted/>
+    </versionChanges>
+</Package>
