@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8f885d3-da4e-4d15-9619-89a7d6a7cccc" name="Default Changelist" comment="" />
+    <list default="true" id="f8f885d3-da4e-4d15-9619-89a7d6a7cccc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convenio1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operacao.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Out.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResidentData.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saida.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saida1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saida3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conv_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversor.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain_value_maps.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemploConversor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resident_data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.xml" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Rk8G8r8C2bNC2h8AnUMwd0DF4w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -105,5 +129,16 @@
       <updated>1570199634681</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
