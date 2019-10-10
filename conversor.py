@@ -1,8 +1,14 @@
 import csv
+import sys
+#import argparse
 import xml.etree.cElementTree as ET
-tree = ET.parse('files_xml/Convenio.xml')
+for filename_XML in sys.argv:
+    print('filename_XML')
+filenameXML = filename_XML + '.xml'
+tree = ET.parse(filenameXML)
 root = tree.getroot()
-xml_para_csv = open('files_CSV/Convenio.csv', 'w')
+filename_csv = filename_XML +'.csv'
+xml_para_csv = open(filename_csv, 'w')
 list_head=[]
 Cvs_whiter= csv.writer(xml_para_csv)
 cont = 0
