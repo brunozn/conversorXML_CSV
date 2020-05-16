@@ -11,11 +11,11 @@ filename_csv = filename_XML +'.csv'
 xml_para_csv = open(filename_csv, 'w')
 list_head=[]
 Cvs_whiter= csv.writer(xml_para_csv)
-cont = 0
 for member in root.findall('columns'):
     columns = []
     for column in member.findall('column'):
         columns.append(column.attrib['name'])
+        print(column.attrib)
     Cvs_whiter.writerow(columns)
 for member in root.findall('rows'):
     for row in member.findall('row'):
