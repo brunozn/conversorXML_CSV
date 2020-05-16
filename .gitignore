@@ -1,7 +1,7 @@
 .idea/*
-estudos/*
-files_CSV/*
-files_xml/*
-Invoice.jrxml
-conversor_versao.py
-taref.py
+/estudos/*
+/files_CSV/*
+/files_xml/*
+/Invoice.jrxml
+/conversor_versao.py
+/taref.py
